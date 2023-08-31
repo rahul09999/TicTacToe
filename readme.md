@@ -1,6 +1,6 @@
 # Tic Tac Toe CLI Game
 
-![Tic Tac Toe](https://ibb.co/DtRqjZp)
+<img src= "./assets/pngwing.com.png" width = "200" >
 
 ## Table of Contents
 
